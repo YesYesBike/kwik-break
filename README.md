@@ -1,3 +1,2 @@
 # Kwik Break
-A simple countdown clock using ascii numbers for my Twitch channel.
-https://twitch.tv/cobbcoding
+I'm learning C Programming and it's a nice small open source project what I was finding.
